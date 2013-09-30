@@ -1,4 +1,4 @@
-SharePointQuickWins-Backups
+QuickWinsChecksumPOSH
 ===========================
 
 Author: Maxime Fortier
