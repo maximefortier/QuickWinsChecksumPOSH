@@ -19,7 +19,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 PowerShell Quick Wins by Maxime Fortier - Checksum
 --------------------------
 
-Description to be completed. 
+I was tired of looking online for some free checksum tools. To be truly honest, I do not trust any of them. I thought it would be easier to build one. Performance is not too bad either. 
+
 
 **Package Content**
 - To be completed... 
