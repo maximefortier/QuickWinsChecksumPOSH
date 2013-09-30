@@ -23,4 +23,4 @@ I was tired of looking online for some free checksum tools. To be truly honest, 
 
 
 **Package Content**
-- To be completed... 
+- ChecksumPOSH.ps1, which is the main and only script in this project. 
